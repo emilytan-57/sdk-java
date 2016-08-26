@@ -12,3 +12,18 @@ http://help.eclipse.org/juno/index.jsp?topic=%2Forg.eclipse.jdt.doc.user%2Ftasks
 
 Using JARs:
 http://help.eclipse.org/juno/index.jsp?topic=%2Forg.eclipse.jst.j2ee.doc.user%2Ftopics%2Ftjimpapp.html
+
+BeMyGuestAPIV1 - 中文版说明
+===========================
+这个API接口是由APIMATIC V2.0自动产生
+
+如何使用：
+=================
+导出编译后的classes作为一个Java libray （jar） 。导出的jar可作为library。
+请参阅以下有关该主题的链接， 可以得到更多信息：
+
+导出 JARs:
+http://help.eclipse.org/juno/index.jsp?topic=%2Forg.eclipse.jdt.doc.user%2Ftasks%2Ftasks-33.htm
+
+使用 JARs:
+http://help.eclipse.org/juno/index.jsp?topic=%2Forg.eclipse.jst.j2ee.doc.user%2Ftopics%2Ftjimpapp.html
